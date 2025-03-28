@@ -112,7 +112,7 @@ const Projects = () => {
     {
       id: "actions",
       enableHiding: false,
-      cell: ({ row }) => {
+      cell: ({ }) => {
         // const project = row.original; // Removed unused variable
         return (
           <Button variant="ghost" className="h-8 w-8 p-0">
