@@ -1,7 +1,6 @@
 "use client"
 import { readTextFile, writeTextFile, BaseDirectory } from "@tauri-apps/plugin-fs";
-import AddProjectDialog from "./addProjectDialog";  // Import the AddProjectDialog component
-
+import AddProjectDialog from "./addProjectDialog";  
 import * as React from "react"
 import {
   ColumnDef,
@@ -15,7 +14,7 @@ import {
   getSortedRowModel,
   useReactTable,
 } from "@tanstack/react-table"
-import { ArrowUpDown, ChevronDown, MoreHorizontal } from "lucide-react"
+import { ArrowUpDown, MoreHorizontal } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Checkbox } from "@/components/ui/checkbox"
 import { Input } from "@/components/ui/input"
@@ -114,7 +113,7 @@ const Projects = () => {
       id: "actions",
       enableHiding: false,
       cell: ({ row }) => {
-        const project = row.original;
+        // const project = row.original; // Removed unused variable
         return (
           <Button variant="ghost" className="h-8 w-8 p-0">
             <span className="sr-only">Actions</span>
