@@ -21,7 +21,6 @@ function App() {
           <div className="width= 13rem">
             <AppSidebar />
           </div>
-
           <div>
             <Routes>
               <Route path="/" element={<Home />} />

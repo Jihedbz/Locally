@@ -5,6 +5,22 @@
   "windows": ["main"],
   "permissions": [
     "core:default",
-    "opener:default"
+    "opener:default",
+    "dialog:allow-open",
+    "dialog:allow-message", 
+    "dialog:default",
+    "fs:allow-app-write",
+    "fs:allow-app-read",
+    "fs:default",
+    "fs:allow-read",
+    "fs:allow-write",
+    "fs:scope-appdata",
+    {
+      "identifier": "fs:scope",
+      "allow": [
+      "$APPDATA/projects",
+      "$APPDATA/projects/*"
+    ]
+    }
   ]
 }
