@@ -94,7 +94,7 @@ const Projects = () => {
               <i className="devicon-react-original colored mr-2"></i>
             )}
     
-            {/* Display the project name */}
+            {/* Display the project name */} 
             <span>{projectName as string}</span>
           </div>
         );
