@@ -30,6 +30,18 @@
 
 🔨 **Locally is still under development.** Stay tuned for updates and new features!  
 
+## 📥 Installation  
+
+Locally is still under development, but once released, you will be able to download it directly from the **Releases** section.  
+
+### 🔽 Download & Install  
+
+1. Go to the **[Releases](https://github.com/your-username/locally/releases)** page.  
+2. Download the latest version for your operating system.  
+3. Install and run **Locally** on your machine.  
+
+🚀 **Stay tuned for updates!**  
+
 ## 📩 Get Involved  
 
 Love the idea? Want to contribute? Open issues, suggest features, or just say hi!  
