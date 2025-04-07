@@ -1,17 +1,17 @@
-# 🌍 Locally - Your Ultimate Local Development Manager  
+# Locally – Local Development Manager
 
-🚀 **Locally** is a powerful and lightweight tool designed to streamline your local development workflow. Whether you're working with **React, Angular, Next.js, or Vue**, **Locally** provides a single interface to **create, manage, and maintain** your projects effortlessly.  
+Locally is a lightweight tool to streamline local development workflows. It helps manage projects, dependencies, and packages for frameworks like **React, Angular, Next.js, and Vue**—all from a single interface.
 
-## 🛠️ Features  
+## Features
 
-✅ **Project Management** – Create and organize your local projects in one place.  
-✅ **Dependency Management** – Check for outdated dependencies and update them easily.  
-✅ **Package Installer** – Install and manage project dependencies from the UI.  
-✅ **Framework Support** – Works seamlessly with **React, Angular, Next.js, and Vue**.  
-✅ **Built with Rust & Tauri** – Blazing fast and lightweight with minimal resource usage.  
-✅ **Beautiful UI** – Designed with **ShadCN** for a modern and intuitive experience.  
+- **Project Management** – Organize local projects in one place.
+- **Dependency Management** – Check and update outdated dependencies.
+- **Package Installer** – Install/manage dependencies via UI.
+- **Framework Support** – Works with React, Angular, Next.js, and Vue.
+- **Rust & Tauri** – Fast, lightweight, and minimal resource usage.
+- **ShadCN UI** – Clean and intuitive interface.
 
-## 📦 Supported Frameworks  
+## Supported Frameworks
 
 | Framework | Supported |
 |-----------|----------|
@@ -20,30 +20,20 @@
 | Next.js   | ✅        |
 | Vue.js    | ✅        |
 
-## 🎨 Tech Stack  
+## Tech Stack
 
-- **Rust** – High-performance backend powering the tool.  
-- **Tauri** – Secure and efficient desktop app framework.  
-- **ShadCN** – Beautiful and customizable UI components.  
+- **Backend**: Rust  
+- **App Framework**: Tauri  
+- **UI**: ShadCN  
 
-## 🚧 Status  
+## Status
 
-🔨 **Locally is still under development.** Stay tuned for updates and new features!  
+⚠️ **Under Development** – New features and fixes coming soon.
 
-## 📥 Installation  
+## Installation
 
-Locally is still under development, but once released, you will be able to download it directly from the **Releases** section.  
+Once released, download the latest version from the [Releases](https://github.com/Jihedbz/locally/releases) page.
 
-### 🔽 Download & Install  
+## Contributing
 
-1. Go to the **[Releases](https://github.com/your-username/locally/releases)** page.  
-2. Download the latest version for your operating system.  
-3. Install and run **Locally** on your machine.  
-
-🚀 **Stay tuned for updates!**  
-
-## 📩 Get Involved  
-
-Love the idea? Want to contribute? Open issues, suggest features, or just say hi!  
-
-📌 **Star this repo to support the project!** ⭐  
+Open issues, suggest features, or star the repo to show support!
