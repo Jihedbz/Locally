@@ -62,6 +62,7 @@ Locally is a lightweight, high-performance tool designed to revolutionize local 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="assets/clean_function.gif" alt="Locally in action" width="700"/>
+      <img src="assets/Screenshot_2.png" alt="Locally in action" width="700"/>
 
   </div>
 </div>
