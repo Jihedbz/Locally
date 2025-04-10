@@ -5,7 +5,7 @@
 ### A Powerful Local Development Manager
 
 [![License](https://img.shields.io/badge/license-Closed%20Source-red.svg)]()
-[![Status](https://img.shields.io/badge/status-under%20development-orange.svg)](https://github.com/Jihedbz/locally)
+[![Status](https://img.shields.io/badge/status-under%20development-green.svg)](https://github.com/Jihedbz/locally)
 [![Made with Rust](https://img.shields.io/badge/Made%20with-Rust-orange?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![Made with Tauri](https://img.shields.io/badge/Made%20with-Tauri-blue?style=flat&logo=tauri)](https://tauri.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/Jihedbz/locally.svg)](https://github.com/Jihedbz/locally/stargazers)
