@@ -29,12 +29,6 @@ Locally is a lightweight, high-performance tool designed to revolutionize local 
 ## ✨ Key Features
 
 - **📂 Unified Project Management** — Organize and access all your local projects from a centralized dashboard.
-  
-  <details>
-  <summary>See it in action</summary>
-  <img src="assets/clean_function.gif" alt="Project Management Demo" width="600"/>
-  </details>
-
 - **🔄 Smart Dependency Tracking** — Automatically detect and update outdated dependencies with a single click.
 - **📦 Intuitive Package Management** — Install, remove, and manage dependencies through a clean graphical interface.
 - **🛠️ Multi-Framework Support** — First-class support for React, Angular, Next.js, and Vue projects.
