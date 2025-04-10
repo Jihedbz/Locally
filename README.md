@@ -4,13 +4,11 @@
 
 ### A Powerful Local Development Manager
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Closed%20Source-red.svg)]()
 [![Status](https://img.shields.io/badge/status-under%20development-orange.svg)](https://github.com/Jihedbz/locally)
-[![GitHub Stars](https://img.shields.io/github/stars/Jihedbz/locally.svg)](https://github.com/Jihedbz/locally/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/Jihedbz/locally.svg)](https://github.com/Jihedbz/locally/issues)
-[![Maintained](https://img.shields.io/maintenance/yes/2025)](https://github.com/Jihedbz/locally)
 [![Made with Rust](https://img.shields.io/badge/Made%20with-Rust-orange?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![Made with Tauri](https://img.shields.io/badge/Made%20with-Tauri-blue?style=flat&logo=tauri)](https://tauri.app/)
+[![GitHub Stars](https://img.shields.io/github/stars/Jihedbz/locally.svg)](https://github.com/Jihedbz/locally/stargazers)
 
 </div>
 
@@ -74,7 +72,6 @@ Locally is a lightweight, high-performance tool designed to revolutionize local 
 
 - Windows 10/11, macOS 10.15+, or Linux (Ubuntu 20.04+)
 - 100MB of disk space
-- Node.js and npm/yarn installed for dependency management
 
 ### Installation
 
@@ -92,10 +89,8 @@ We welcome contributions of all kinds! Here's how you can help:
 
 - **Star the repo** to show your support
 - **Open issues** for bugs or feature requests
-- **Submit pull requests** to improve the codebase
 - **Share feedback** on the user experience
 
-See our [Contributing Guide](CONTRIBUTING.md) for more details.
 
 ## 📜 License
 
@@ -106,7 +101,7 @@ Locally is available under the MIT License. See the [LICENSE](LICENSE) file for 
 Have questions? Reach out to us:
 
 - [GitHub Issues](https://github.com/Jihedbz/locally/issues)
-- [Email Support](mailto:support@locally.dev)
+- [Email Support](mailto:jih3db@gmail.com)
 
 ---
 
