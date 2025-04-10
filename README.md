@@ -15,6 +15,10 @@
   <strong>Streamline your development workflow with a single, elegant interface.</strong>
 </p>
 
+<div align="center">
+  <img src="assets/clean_function.gif" alt="Locally in action" width="700"/>
+</div>
+
 ## Overview
 
 Locally is a lightweight, high-performance tool designed to revolutionize local development workflows. Built with Rust and Tauri, it offers a seamless experience for managing projects, dependencies, and packages across multiple frameworks—all from one intuitive interface.
@@ -22,6 +26,12 @@ Locally is a lightweight, high-performance tool designed to revolutionize local 
 ## ✨ Key Features
 
 - **📂 Unified Project Management** — Organize and access all your local projects from a centralized dashboard.
+  
+  <details>
+  <summary>See it in action</summary>
+  <img src="assets/clean_function.gif" alt="Project Management Demo" width="600"/>
+  </details>
+
 - **🔄 Smart Dependency Tracking** — Automatically detect and update outdated dependencies with a single click.
 - **📦 Intuitive Package Management** — Install, remove, and manage dependencies through a clean graphical interface.
 - **🛠️ Multi-Framework Support** — First-class support for React, Angular, Next.js, and Vue projects.
@@ -52,6 +62,15 @@ Locally is a lightweight, high-performance tool designed to revolutionize local 
   </tr>
 </table>
 
+## 💫 Interface
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="assets/screenshot_1.png" alt="Dashboard View" width="600"/>
+    <img src="assets/clean_function.gif" alt="Clean Function Demo" width="600"/>
+  </div>
+</div>
+
 ## 🚀 Getting Started
 
 ### System Requirements
@@ -72,7 +91,9 @@ Download the latest version for your platform:
 
 ## 📸 Screenshots
 
-*Coming soon*
+<div align="center">
+  <img src="assets/screenshot_1.png" alt="Locally Dashboard" width="700"/>
+</div>
 
 ## 🤝 Contributing
 
