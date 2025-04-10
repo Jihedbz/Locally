@@ -8,6 +8,9 @@
 [![Status](https://img.shields.io/badge/status-under%20development-orange.svg)](https://github.com/Jihedbz/locally)
 [![GitHub Stars](https://img.shields.io/github/stars/Jihedbz/locally.svg)](https://github.com/Jihedbz/locally/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/Jihedbz/locally.svg)](https://github.com/Jihedbz/locally/issues)
+[![Maintained](https://img.shields.io/maintenance/yes/2025)](https://github.com/Jihedbz/locally)
+[![Made with Rust](https://img.shields.io/badge/Made%20with-Rust-orange?style=flat&logo=rust)](https://www.rust-lang.org/)
+[![Made with Tauri](https://img.shields.io/badge/Made%20with-Tauri-blue?style=flat&logo=tauri)](https://tauri.app/)
 
 </div>
 
@@ -16,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/clean_function.gif" alt="Locally in action" width="700"/>
+    <img src="assets/screenshot_1.png" alt="Dashboard View" width="600"/>
 </div>
 
 ## Overview
@@ -66,8 +69,8 @@ Locally is a lightweight, high-performance tool designed to revolutionize local 
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="assets/screenshot_1.png" alt="Dashboard View" width="600"/>
-    <img src="assets/clean_function.gif" alt="Clean Function Demo" width="600"/>
+      <img src="assets/clean_function.gif" alt="Locally in action" width="700"/>
+
   </div>
 </div>
 
@@ -88,12 +91,6 @@ Download the latest version for your platform:
 - [Linux](https://github.com/Jihedbz/locally/releases) (.AppImage, .deb)
 
 ⚠️ **Currently Under Development** — More features and improvements coming soon!
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="assets/screenshot_1.png" alt="Locally Dashboard" width="700"/>
-</div>
 
 ## 🤝 Contributing
 
