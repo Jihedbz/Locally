@@ -24,16 +24,16 @@
 
 Locally is a lightweight, high-performance tool designed to revolutionize local development workflows. Built with Rust and Tauri, it offers a seamless experience for managing projects, dependencies, and packages across multiple frameworks—all from one intuitive interface.
 
-## ✨ Key Features
+## Key Features
 
-- **📂 Unified Project Management** — Organize and access all your local projects from a centralized dashboard.
-- **🔄 Smart Dependency Tracking** — Automatically detect and update outdated dependencies with a single click.
-- **📦 Intuitive Package Management** — Install, remove, and manage dependencies through a clean graphical interface.
-- **🛠️ Multi-Framework Support** — First-class support for React, Angular, Next.js, and Vue projects.
-- **⚡ Blazing Fast Performance** — Built with Rust and Tauri for minimal resource usage and maximum speed.
-- **🎨 Beautiful User Experience** — Polished interface built with ShadCN UI components.
+- ** Unified Project Management** — Organize and access all your local projects from a centralized dashboard.
+- ** Smart Dependency Tracking** — Automatically detect and update outdated dependencies with a single click.
+- ** Intuitive Package Management** — Install, remove, and manage dependencies through a clean graphical interface.
+- ** Multi-Framework Support** — First-class support for React, Angular, Next.js, and Vue projects.
+- ** Blazing Fast Performance** — Built with Rust and Tauri for minimal resource usage and maximum speed.
+- ** Beautiful User Experience** — Polished interface built with ShadCN UI components.
 
-## 🖥️ Supported Frameworks
+## Supported Frameworks
 
 | Framework | Status | Version Support |
 |-----------|--------|-----------------|
@@ -42,7 +42,7 @@ Locally is a lightweight, high-performance tool designed to revolutionize local 
 | Next.js   | ✅     | 10+ |
 | Vue.js    | ✅     | 2.6+, 3.x |
 
-## 🔧 Technology Stack
+## Technology Stack
 
 <table>
   <tr>
@@ -57,7 +57,7 @@ Locally is a lightweight, high-performance tool designed to revolutionize local 
   </tr>
 </table>
 
-## 💫 Interface
+## Interface
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -67,24 +67,9 @@ Locally is a lightweight, high-performance tool designed to revolutionize local 
   </div>
 </div>
 
-## 🚀 Getting Started
-
-### System Requirements
-
-- Windows 10/11, macOS 10.15+, or Linux (Ubuntu 20.04+)
-- 100MB of disk space
-
-### Installation
-
-Download the latest version for your platform:
-
-- [Windows](https://github.com/Jihedbz/locally/releases) (.exe, .msi)
-- [macOS](https://github.com/Jihedbz/locally/releases) (.dmg)
-- [Linux](https://github.com/Jihedbz/locally/releases) (.AppImage, .deb)
-
 ⚠️ **Currently Under Development** — More features and improvements coming soon!
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions of all kinds! Here's how you can help:
 
@@ -93,11 +78,11 @@ We welcome contributions of all kinds! Here's how you can help:
 - **Share feedback** on the user experience
 
 
-## 📜 License
+## License
 
 Locally is available under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## 📮 Contact
+## Contact
 
 Have questions? Reach out to us:
 
