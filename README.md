@@ -1,6 +1,8 @@
 <div align="center">
-  
-# Locally
+
+<div align="center">
+    <img src="assets/large_logo.png" alt="Dashboard View" width="300"/>
+</div>
 
 ### A Powerful Local Development Manager
 
