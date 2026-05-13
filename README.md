@@ -1,185 +1,118 @@
 <div align="center">
+  <img src="assets/large_logo.png" alt="Locally" width="280"/>
+  <br/><br/>
 
-<img src="assets/large_logo.png" alt="Locally Logo" width="300"/>
+  <strong>The command center for your local dev environment.</strong>
 
-# Locally
+  <br/>
+  <p>Manage projects, dependencies, and packages — all from one fast, native desktop app.</p>
 
-### The command center for your local development workflow.
-
-<p align="center">
-  Manage projects, dependencies, packages, and development environments from one fast, lightweight desktop application.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jihedbz/Locally/stargazers">
-    <img src="https://img.shields.io/github/stars/Jihedbz/Locally?style=flat-square" alt="GitHub Stars"/>
-  </a>
-
-  <a href="https://github.com/Jihedbz/Locally/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat-square" alt="License"/>
-  </a>
-
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Built%20with-Rust-orange?style=flat-square&logo=rust" alt="Rust"/>
-  </a>
-
-  <a href="https://tauri.app/">
-    <img src="https://img.shields.io/badge/Desktop-Tauri-blue?style=flat-square&logo=tauri" alt="Tauri"/>
-  </a>
-
+  <a href="https://github.com/Jihedbz/Locally/stargazers"><img src="https://img.shields.io/github/stars/Jihedbz/Locally?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/Jihedbz/Locally/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat-square" alt="License"/></a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Built%20with-Rust-orange?style=flat-square&logo=rust" alt="Rust"/></a>
+  <a href="https://tauri.app/"><img src="https://img.shields.io/badge/Desktop-Tauri-blue?style=flat-square&logo=tauri" alt="Tauri"/></a>
   <img src="https://img.shields.io/badge/status-active%20development-22c55e?style=flat-square" alt="Status"/>
-</p>
 
+  <br/><br/>
+
+  <img src="assets/screenshot_1.png" alt="Locally Dashboard" width="860"/>
 </div>
+
+<br/>
 
 ---
 
-## Overview
+Modern dev workflows are fragmented. You're juggling terminals, package managers, Docker, and project folders just to stay organized.
 
-Modern development workflows are fragmented.
+**Locally** pulls it all into one place — a lightweight native app built on Rust and Tauri that stays out of your way until you need it.
 
-Developers constantly switch between terminals, package managers, Docker containers, IDEs, and project folders just to manage their local environment.
+<br/>
 
-**Locally** brings everything together into a single, elegant desktop experience built for speed and productivity.
+## Features
 
-Built with **Rust** and **Tauri**, Locally is designed to stay lightweight while providing powerful tools for managing local development projects across multiple frameworks.
+**Unified Project Dashboard** — All your local projects in one view. No more hunting through directories.
+
+**Dependency Tracking** — Instantly see what's outdated across all your projects, not just the one you're in.
+
+**Package Management UI** — Install, remove, and audit packages without touching the terminal.
+
+**Multi-Framework Support** — Works out of the box with React, Angular, Next.js, and Vue.
+
+**Actually Lightweight** — Rust + Tauri means it won't eat your RAM. Starts in under a second.
+
+<br/>
+
+## Preview
 
 <div align="center">
-    <img src="assets/screenshot_1.png" alt="Locally Dashboard" width="900"/>
+  <img src="assets/clean_function.gif" alt="Locally in action" width="860"/>
+  <br/><br/>
+  <img src="assets/Screenshot_2.png" alt="Locally UI" width="860"/>
 </div>
 
----
+<br/>
 
-# Features
+## Supported Frameworks
 
-### Unified Project Management
-Organize and access all your local projects from a centralized dashboard.
+| Framework | Status | Versions |
+|-----------|--------|----------|
+| React | ✅ Supported | 16.8+ |
+| Angular | ✅ Supported | 9+ |
+| Next.js | ✅ Supported | 10+ |
+| Vue.js | ✅ Supported | 2.6+, 3.x |
 
-### Smart Dependency Tracking
-Detect outdated dependencies instantly and keep projects up to date with minimal effort.
+<br/>
 
-### Package Management
-Install, remove, and manage dependencies through a clean graphical interface.
+## Tech Stack
 
-### Multi-Framework Support
-Work seamlessly with modern frontend ecosystems including React, Angular, Next.js, and Vue.
-
-### Fast & Lightweight
-Powered by Rust and Tauri for excellent performance and low resource usage.
-
-### Modern User Experience
-Clean, responsive interface built with ShadCN UI and modern design principles.
-
----
-
-# Supported Frameworks
-
-| Framework | Status | Supported Versions |
-|------------|--------|-------------------|
-| React      | ✅     | 16.8+ |
-| Angular    | ✅     | 9+ |
-| Next.js    | ✅     | 10+ |
-| Vue.js     | ✅     | 2.6+, 3.x |
-
----
-
-# Tech Stack
-
-| Layer | Technology |
-|------|-------------|
-| Core Engine | Rust |
-| Desktop Framework | Tauri |
+| | |
+|---|---|
+| Core | Rust |
+| Desktop | Tauri |
 | Frontend | Angular |
-| UI Components | ShadCN UI |
-| Styling | Tailwind CSS |
+| UI | ShadCN UI + Tailwind CSS |
 
----
+<br/>
 
-# Interface Preview
+## What's Coming
 
-<div align="center">
+Locally is under active development. The goal is a complete local dev workspace — one app for everything you'd otherwise do across five tools.
 
-<img src="assets/clean_function.gif" alt="Locally Demo" width="900"/>
-
-<br/><br/>
-
-<img src="assets/Screenshot_2.png" alt="Locally Interface" width="900"/>
-
-</div>
-
----
-
-# Vision
-
-Locally aims to become a complete local development workspace — a place where developers can manage projects, dependencies, services, and workflows without leaving a single application.
-
-Planned improvements include:
+On the roadmap:
 
 - Docker integration
 - Git workflow tools
-- Workspace sessions
-- Monorepo support
 - Terminal management
+- Monorepo support
+- Environment & secrets management
+- Workspace sessions
 - Project analytics
-- Environment management
 - Plugin ecosystem
 
----
+<br/>
 
-# Development Status
+## Contributing
 
-Locally is currently under active development.
+All kinds of contributions are welcome — bug reports, feature ideas, docs improvements, or pull requests.
 
-Features, performance improvements, and framework support are continuously being expanded.
+If you find Locally useful, a ⭐ on the repo goes a long way.
 
-Feedback, suggestions, and contributions are always welcome.
+<br/>
 
----
+## Privacy
 
-# Contributing
+Locally runs entirely on your machine. Your projects and data never leave it.
 
-Contributions of any kind are appreciated.
+<br/>
 
-You can help by:
+## License
 
-- Reporting bugs
-- Suggesting features
-- Improving documentation
-- Submitting pull requests
-- Sharing feedback and ideas
+MIT — see [LICENSE](LICENSE).
 
-If you find the project useful, consider starring the repository to support development.
-
----
-
-# Privacy
-
-Locally is designed to run entirely on your machine.
-
-Your projects, dependencies, and local data stay local.
-
----
-
-# License
-
-This project is licensed under the MIT License.
-
-See the [LICENSE](LICENSE) file for more information.
-
----
-
-# Contact
-
-- GitHub Issues  
-  https://github.com/Jihedbz/Locally/issues
-
-- Email  
-  jih3db@gmail.com
+<br/>
 
 ---
 
 <div align="center">
-
-Built with ❤️ by Jihedbz
-
+  Built by <a href="https://github.com/Jihedbz">Jihedbz</a> &nbsp;·&nbsp; <a href="https://github.com/Jihedbz/Locally/issues">Issues</a> &nbsp;·&nbsp; jih3db@gmail.com
 </div>
