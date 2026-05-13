@@ -1,107 +1,97 @@
 <div align="center">
-  <img src="assets/large_logo.png" alt="Locally" width="280"/>
+  <img src="assets/large_logo.png" alt="Locally" width="260"/>
   <br/><br/>
+  <h3>Stop context-switching. Start shipping.</h3>
+  <p>A native desktop app for managing your entire local dev environment —<br/>projects, dependencies, packages — from one place.</p>
 
-  <strong>The command center for your local dev environment.</strong>
+  <p>
+    <a href="https://github.com/Jihedbz/Locally/stargazers"><img src="https://img.shields.io/github/stars/Jihedbz/Locally?style=flat-square" alt="Stars"/></a>
+    <img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat-square" alt="License"/>
+    <img src="https://img.shields.io/badge/Built%20with-Rust-orange?style=flat-square&logo=rust" alt="Rust"/>
+    <img src="https://img.shields.io/badge/Desktop-Tauri-blue?style=flat-square&logo=tauri" alt="Tauri"/>
+    <img src="https://img.shields.io/badge/status-active%20development-22c55e?style=flat-square" alt="Status"/>
+  </p>
 
   <br/>
-  <p>Manage projects, dependencies, and packages — all from one fast, native desktop app.</p>
-
-  <a href="https://github.com/Jihedbz/Locally/stargazers"><img src="https://img.shields.io/github/stars/Jihedbz/Locally?style=flat-square" alt="Stars"/></a>
-  <a href="https://github.com/Jihedbz/Locally/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat-square" alt="License"/></a>
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Built%20with-Rust-orange?style=flat-square&logo=rust" alt="Rust"/></a>
-  <a href="https://tauri.app/"><img src="https://img.shields.io/badge/Desktop-Tauri-blue?style=flat-square&logo=tauri" alt="Tauri"/></a>
-  <img src="https://img.shields.io/badge/status-active%20development-22c55e?style=flat-square" alt="Status"/>
-
-  <br/><br/>
-
-  <img src="assets/screenshot_1.png" alt="Locally Dashboard" width="860"/>
+  <img src="assets/screenshot_1.png" alt="Locally Dashboard" width="880"/>
 </div>
 
 <br/>
 
 ---
 
-Modern dev workflows are fragmented. You're juggling terminals, package managers, Docker, and project folders just to stay organized.
+You already know the problem. Five terminals open. `npm outdated` in one, `docker ps` in another, a file explorer somewhere, an IDE somewhere else. Every project lives in its own corner of your machine with no single view of what's running, what's broken, or what needs updating.
 
-**Locally** pulls it all into one place — a lightweight native app built on Rust and Tauri that stays out of your way until you need it.
-
-<br/>
-
-## Features
-
-**Unified Project Dashboard** — All your local projects in one view. No more hunting through directories.
-
-**Dependency Tracking** — Instantly see what's outdated across all your projects, not just the one you're in.
-
-**Package Management UI** — Install, remove, and audit packages without touching the terminal.
-
-**Multi-Framework Support** — Works out of the box with React, Angular, Next.js, and Vue.
-
-**Actually Lightweight** — Rust + Tauri means it won't eat your RAM. Starts in under a second.
+**Locally** is a lightweight native app that gives you that view. Built with Rust and Tauri — fast, small, and it doesn't get in your way.
 
 <br/>
 
-## Preview
+## What it does
+
+<table>
+<tr>
+<td width="50%">
+
+**📁 Project Dashboard**  
+Every local project in one place. Open, switch, and organize without touching Finder or Explorer.
+
+**📦 Package Management**  
+Install, remove, and audit dependencies through a clean UI — no terminal needed for the routine stuff.
+
+</td>
+<td width="50%">
+
+**🔍 Dependency Tracking**  
+Spot outdated packages across all your projects at once, not just the one you happen to have open.
+
+**⚡ Actually Lightweight**  
+Rust + Tauri. Starts in under a second. Won't eat your RAM while you're doing real work.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## In action
 
 <div align="center">
-  <img src="assets/clean_function.gif" alt="Locally in action" width="860"/>
+  <img src="assets/clean_function.gif" alt="Locally demo" width="880"/>
   <br/><br/>
-  <img src="assets/Screenshot_2.png" alt="Locally UI" width="860"/>
+  <img src="assets/Screenshot_2.png" alt="Locally interface" width="880"/>
 </div>
 
 <br/>
 
-## Supported Frameworks
+## Framework support
 
-| Framework | Status | Versions |
-|-----------|--------|----------|
-| React | ✅ Supported | 16.8+ |
-| Angular | ✅ Supported | 9+ |
-| Next.js | ✅ Supported | 10+ |
-| Vue.js | ✅ Supported | 2.6+, 3.x |
+React `16.8+` · Angular `9+` · Next.js `10+` · Vue `2.6+, 3.x`
 
 <br/>
 
-## Tech Stack
+## Built with
 
-| | |
-|---|---|
-| Core | Rust |
-| Desktop | Tauri |
-| Frontend | Angular |
-| UI | ShadCN UI + Tailwind CSS |
+Rust · Tauri · Angular · ShadCN UI · Tailwind CSS
 
 <br/>
 
-## What's Coming
+## Roadmap
 
-Locally is under active development. The goal is a complete local dev workspace — one app for everything you'd otherwise do across five tools.
+Locally is actively developed. The end goal is a complete local dev workspace — the single app you reach for instead of five others.
 
-On the roadmap:
-
-- Docker integration
-- Git workflow tools
-- Terminal management
-- Monorepo support
-- Environment & secrets management
-- Workspace sessions
-- Project analytics
-- Plugin ecosystem
+Coming up: Docker integration · Git tools · Terminal management · Monorepo support · Environment management · Workspace sessions · Plugin ecosystem
 
 <br/>
 
 ## Contributing
 
-All kinds of contributions are welcome — bug reports, feature ideas, docs improvements, or pull requests.
-
-If you find Locally useful, a ⭐ on the repo goes a long way.
+Bug reports, feature ideas, docs fixes, PRs — all welcome. If this saves you time, a ⭐ helps more than you'd think.
 
 <br/>
 
 ## Privacy
 
-Locally runs entirely on your machine. Your projects and data never leave it.
+Everything runs locally. Your projects and data never leave your machine.
 
 <br/>
 
@@ -114,5 +104,5 @@ MIT — see [LICENSE](LICENSE).
 ---
 
 <div align="center">
-  Built by <a href="https://github.com/Jihedbz">Jihedbz</a> &nbsp;·&nbsp; <a href="https://github.com/Jihedbz/Locally/issues">Issues</a> &nbsp;·&nbsp; jih3db@gmail.com
+  <sub>Built by <a href="https://github.com/Jihedbz">Jihedbz</a> · <a href="https://github.com/Jihedbz/Locally/issues">Open an issue</a> · jih3db@gmail.com</sub>
 </div>
